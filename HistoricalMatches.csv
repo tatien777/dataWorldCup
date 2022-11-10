@@ -835,82 +835,67 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,29 Jun 2014 - 17:00,Round of 16,Arena Pernambuco,Recife,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3),41242,0,0,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),255951,300186459,CRC,GRE,1,0,,,North America,Europe
 2014,01 Jul 2014 - 13:00,Round of 16,Arena de Sao Paulo,Sao Paulo,Argentina,1,0,Switzerland,Argentina win after extra time,63255,0,0,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),255951,300186503,ARG,SUI,1,0,,,South America,Europe
 2014,01 Jul 2014 - 17:00,Round of 16,Arena Fonte Nova,Salvador,Belgium,2,1,USA,Belgium win after extra time,51227,0,0,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255951,300186497,BEL,USA,1,0,,,Europe,North America
-2014,28 Jun 2014 - 13:00,Round of 16,Estadio Mineirao,Belo Horizonte,Brazil,1,1,Chile,Brazil win on penalties (3 - 2),57714,0,0,WEBB Howard (ENG),MULLARKEY Michael (ENG),Darren CANN (ENG),255951,300186487,BRA,CHI,1,0,,,South America,South America
-2014,28 Jun 2014 - 17:00,Round of 16,Estadio do Maracana,Rio De Janeiro,Colombia,2,0,Uruguay,,73804,1,0,Bj�rn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),255951,300186491,COL,URU,1,0,,,South America,South America
-2014,29 Jun 2014 - 13:00,Round of 16,Estadio Castelao,Fortaleza,Netherlands,2,1,Mexico,,58817,0,0,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),255951,300186508,NED,MEX,1,0,,,Europe,North America
-2014,29 Jun 2014 - 17:00,Round of 16,Arena Pernambuco,Recife,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3),41242,0,0,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),255951,300186459,CRC,GRE,1,0,,,North America,Europe
-2014,30 Jun 2014 - 13:00,Round of 16,Estadio Nacional,Brasilia,France,2,0,Nigeria,,67882,0,0,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),255951,300186462,FRA,NGA,1,0,,,Europe,Africa
-2014,30 Jun 2014 - 17:00,Round of 16,Estadio Beira-Rio,Porto Alegre,Germany,2,1,Algeria,Germany win after extra time,,0,0,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),255951,300186460,GER,ALG,1,0,,,Europe,Africa
-2014,01 Jul 2014 - 13:00,Round of 16,Arena de Sao Paulo,Sao Paulo,Argentina,1,0,Switzerland,Argentina win after extra time,63255,0,0,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),255951,300186503,ARG,SUI,1,0,,,South America,Europe
-2014,01 Jul 2014 - 17:00,Round of 16,Arena Fonte Nova,Salvador,Belgium,2,1,USA,Belgium win after extra time,51227,0,0,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255951,300186497,BEL,USA,1,0,,,Europe,North America
-2014,04 Jul 2014 - 13:00,Quarter-finals,Estadio do Maracana,Rio De Janeiro,France,0,1,Germany,,74240,0,1,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),255953,300186485,FRA,GER,0,1,,,Europe,Europe
-2014,04 Jul 2014 - 17:00,Quarter-finals,Estadio Castelao,Fortaleza,Brazil,2,1,Colombia,,60342,1,0,Carlos VELASCO CARBALLO (ESP),ALONSO FERNANDEZ Roberto (ESP),YUSTE Juan (ESP),255953,300186461,BRA,COL,1,0,,,South America,South America
-2014,05 Jul 2014 - 13:00,Quarter-finals,Estadio Nacional,Brasilia,Argentina,1,0,Belgium,,68551,1,0,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255953,300186504,ARG,BEL,1,0,,,South America,Europe
-2014,05 Jul 2014 - 17:00,Quarter-finals,Arena Fonte Nova,Salvador,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3),51179,0,0,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),255953,300186488,NED,CRC,1,0,,,Europe,North America
-2014,08 Jul 2014 - 17:00,Semi-finals,Estadio Mineirao,Belo Horizonte,Brazil,1,7,Germany,,58141,0,5,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),255955,300186474,BRA,GER,0,1,,,South America,Europe
-2014,09 Jul 2014 - 17:00,Semi-finals,Arena de Sao Paulo,Sao Paulo,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4),63267,0,0,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255955,300186490,NED,ARG,0,1,,,Europe,South America
-2014,12 Jul 2014 - 17:00,Play-off for third place,Estadio Nacional,Brasilia,Brazil,0,3,Netherlands,,68034,0,2,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255957,300186502,BRA,NED,0,1,,,South America,Europe
-2018,14 Jun 2018 - 18:00,Group A,"Luzhniki Stadium,",Moscow,Russia,5,0,Saudi Arabia,,78011,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,RUS,KSA,1,0,,,,
-2018,15 Jun 2018 - 17:00,Group A,"Ekaterinburg Arena,",Ekaterinburg,Egypt,0,1,Uruguay,,27015,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000000,EGY,URU,0,1,,,,
-2018,15 Jun 2018 - 18:00,Group B,"Saint Petersburg Stadium,",St. Petersburg,Morocco,0,1,Iran,,62548,,,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000000,MAR,IRN,0,1,,,,
-2018,15 Jun 2018 - 21:00,Group B,"Fisht Stadium,",Sochi,Portugal,3,3,Spain,,43866,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000000,POR,ESP,2,2,,,,
-2018,16 Jun 2018 - 13:00,Group C,"Kazan Arena,",Kazan,France,2,1,Australia,,41279,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000000,FRA,AUS,1,0,,,,
-2018,16 Jun 2018 - 16:00,Group D,"Spartak Stadium,",Moscow,Argentina,1,1,Iceland,,44190,,,MARCINIAK Szymon (POL),SOKOLNICKI Pawel (POL),LISTKIEWICZ Tomasz (POL),,300000000,ARG,ISL,2,2,,,,
-2018,16 Jun 2018 - 19:00,Group C,"Mordovia Arena,",Saransk,Peru,0,1,Denmark,,40502,,,GASSAMA Bakary (GAM),BIRUMUSHAHU Jean Claude (BDI),ETCHIALI Abdelhak (ALG),,300000000,PER,DEN,0,1,,,,
-2018,16 Jun 2018 - 21:00,Group D,"Kaliningrad Stadium,",Kaliningrad,Croatia,2,0,Nigeria,,31136,,,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000000,CRO,NGA,1,0,,,,
-2018,17 Jun 2018 - 16:00,Group E,"Samara Arena,",Samara,Costa Rica,0,1,Serbia,,41432,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000000,CRC,SRB,0,1,,,,
-2018,17 Jun 2018 - 18:00,Group F,"Luzhniki Stadium,",Moscow,Germany,0,1,Mexico,,78011,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000000,GER,MEX,0,1,,,,
-2018,17 Jun 2018 - 21:00,Group E,"Rostov Arena,",Rostov-On-Don,Brazil,1,1,Switzerland,,43109,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000000,BRA,SUI,2,2,,,,
-2018,18 Jun 2018 - 15:00,Group F,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Sweden,1,0,Korea Republic,,42300,,,AGUILAR Joel (SLV),ZUMBA Juan (SLV),MORA Juan Carlos (CRC),,300000000,SWE,KOR,1,0,,,,
-2018,18 Jun 2018 - 18:00,Group G,"Fisht Stadium,",Sochi,Belgium,3,0,Panama,,43257,,,SIKAZWE Janny (ZAM),DOS SANTOS Jerson (ANG),SIWELA Zakhele (RSA),,300000000,BEL,PAN,1,0,,,,
-2018,18 Jun 2018 - 21:00,Group G,"Volgograd Arena,",Volgograd,Tunisia,1,2,England,,41064,,,ROLDAN Wilmar (COL),GUZMAN Alexander (COL),DE LA CRUZ Cristian (COL),,300000000,TUN,ENG,0,1,,,,
-2018,19 Jun 2018 - 15:00,Group H,"Mordovia Arena,",Saransk,Colombia,1,2,Japan,,40842,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000000,COL,JPN,0,1,,,,
-2018,19 Jun 2018 - 18:00,Group H,"Spartak Stadium,",Moscow,Poland,1,2,Senegal,,44190,,,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),AL MARRI Taleb (QAT),,300000000,POL,SEN,0,1,,,,
-2018,19 Jun 2018 - 21:00,Group A,"Saint Petersburg Stadium,",St. Petersburg,Russia,3,1,Egypt,,64468,,,CACERES Enrique (PAR),CARDOZO Eduardo (PAR),ZORRILLA Juan (PAR),,300000000,RUS,EGY,1,0,,,,
-2018,20 Jun 2018 - 15:00,Group B,"Luzhniki Stadium,",Moscow,Portugal,1,0,Morocco,,78011,,,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000000,POR,MAR,1,0,,,,
-2018,20 Jun 2018 - 18:00,Group A,"Rostov Arena,",Rostov-On-Don,Uruguay,1,0,Saudi Arabia,,42678,,,TURPIN Clement (FRA),DANOS Nicolas (FRA),GRINGORE Cyril (FRA),,300000000,URU,KSA,1,0,,,,
-2018,20 Jun 2018 - 21:00,Group B,"Kazan Arena,",Kazan,Iran,0,1,Spain,,42718,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000000,IRN,ESP,0,1,,,,
-2018,21 Jun 2018 - 16:00,Group C,"Samara Arena,",Samara,Denmark,1,1,Australia,,40727,,,MATEU Antonio (ESP),CEBRIAN Pau (ESP),DIAZ Roberto (ESP),,300000000,DEN,AUS,2,2,,,,
-2018,21 Jun 2018 - 20:00,Group C,"Ekaterinburg Arena,",Ekaterinburg,France,1,0,Peru,,32789,,,MOHAMMED Mohammed Abdulla (UAE),ALHAMMADI Mohamed (UAE),ALMAHRI Hasan (UAE),,300000000,FRA,PER,1,0,,,,
-2018,21 Jun 2018 - 21:00,Group D,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Argentina,0,3,Croatia,,43319,,,IRMATOV Ravshan (UZB),RASULOV Abdukhamidullo (UZB),SAIDOV Jakhongir (UZB),,300000000,ARG,CRO,0,1,,,,
-2018,22 Jun 2018 - 15:00,Group E,"Saint Petersburg Stadium,",St. Petersburg,Brazil,2,0,Costa Rica,,64468,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000000,BRA,CRC,1,0,,,,
-2018,22 Jun 2018 - 18:00,Group D,"Volgograd Arena,",Volgograd,Nigeria,2,0,Iceland,,40904,,,CONGER Matt (NZL),LOUNT Simon (NZL),MAKASINI Tevita (TGA),,300000000,NGA,ISL,1,0,,,,
-2018,22 Jun 2018 - 20:00,Group E,"Kaliningrad Stadium,",Kaliningrad,Serbia,1,2,Switzerland,,33167,,,BRYCH Felix (GER),BORSCH Mark (GER),LUPP Stefan (GER),,300000000,SRB,SUI,0,1,,,,
-2018,23 Jun 2018 - 15:00,Group G,"Spartak Stadium,",Moscow,Belgium,5,2,Tunisia,,44190,,,MARRUFO Jair (USA),ROCKWELL Corey (USA),ZUMBA Juan (SLV),,300000000,BEL,TUN,1,0,,,,
-2018,23 Jun 2018 - 18:00,Group F,"Rostov Arena,",Rostov-On-Don,Korea Republic,1,2,Mexico,,43472,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000000,KOR,MEX,0,1,,,,
-2018,23 Jun 2018 - 21:00,Group F,"Fisht Stadium,",Sochi,Germany,2,1,Sweden,,44287,,,MARCINIAK Szymon (POL),SOKOLNICKI Pawel (POL),LISTKIEWICZ Tomasz (POL),,300000000,GER,SWE,1,0,,,,
-2018,24 Jun 2018 - 15:00,Group G,"Nizhny Novgorod Stadium,",Nizhny Novgorod,England,6,1,Panama,,43319,,,GRISHA Ghead (EGY),ACHIK Redouane (MAR),AHMED Waleed (SDN),,300000000,ENG,PAN,1,0,,,,
-2018,24 Jun 2018 - 20:00,Group H,"Ekaterinburg Arena,",Ekaterinburg,Japan,2,2,Senegal,,32572,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000000,JPN,SEN,2,2,,,,
-2018,24 Jun 2018 - 21:00,Group H,"Kazan Arena,",Kazan,Poland,0,3,Colombia,,42873,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000000,POL,COL,0,1,,,,
-2018,25 Jun 2018 - 18:00,Group A,"Samara Arena,",Samara,Saudi Arabia,2,1,Egypt,,41970,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000000,KSA,EGY,1,0,,,,
-2018,25 Jun 2018 - 17:00,Group A,"Volgograd Arena,",Volgograd,Uruguay,3,0,Russia,,36823,,,ROLDAN Wilmar (COL),GUZMAN Alexander (COL),DE LA CRUZ Cristian (COL),,300000000,URU,RUS,1,0,,,,
-2018,25 Jun 2018 - 20:00,Group B,"Kaliningrad Stadium,",Kaliningrad,Iran,1,1,Portugal,,33973,,,IRMATOV Ravshan (UZB),RASULOV Abdukhamidullo (UZB),SAIDOV Jakhongir (UZB),,300000000,IRN,POR,2,2,,,,
-2018,25 Jun 2018 - 21:00,Group B,"Mordovia Arena,",Saransk,Spain,2,2,Morocco,,41685,,,CACERES Enrique (PAR),CARDOZO Eduardo (PAR),ZORRILLA Juan (PAR),,300000000,ESP,MAR,2,2,,,,
-2018,26 Jun 2018 - 17:00,Group C,"Fisht Stadium,",Sochi,Australia,0,2,Peru,,44073,,,KARASEV Sergei (RUS),AVERIANOV Anton (RUS),KALUGIN Tikhon (RUS),,300000000,AUS,PER,0,1,,,,
-2018,26 Jun 2018 - 17:00,Group C,"Luzhniki Stadium,",Moscow,Denmark,0,0,France,,78011,,,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000000,DEN,FRA,2,2,,,,
-2018,26 Jun 2018 - 21:00,Group D,"Saint Petersburg Stadium,",St. Petersburg,Nigeria,1,2,Argentina,,64468,,,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000000,NGA,ARG,0,1,,,,
-2018,26 Jun 2018 - 21:00,Group D,"Rostov Arena,",Rostov-On-Don,Iceland,1,2,Croatia,,43472,,,MATEU Antonio (ESP),CEBRIAN Pau (ESP),DIAZ Roberto (ESP),,300000000,ISL,CRO,0,1,,,,
-2018,27 Jun 2018 - 17:00,Group F,"Kazan Arena,",Kazan,Mexico,0,3,Sweden,,41835,,,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000000,MEX,SWE,0,1,,,,
-2018,27 Jun 2018 - 19:00,Group F,"Ekaterinburg Arena,",Ekaterinburg,Korea Republic,2,0,Germany,,33061,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,KOR,GER,1,0,,,,
-2018,27 Jun 2018 - 21:00,Group E,"Spartak Stadium,",Moscow,Switzerland,2,2,Costa Rica,,44190,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000000,SUI,CRC,2,2,,,,
-2018,27 Jun 2018 - 21:00,Group E,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Serbia,0,2,Brazil,,43319,,,TURPIN Clement (FRA),DANOS Nicolas (FRA),GRINGORE Cyril (FRA),,300000000,SRB,BRA,0,1,,,,
-2018,28 Jun 2018 - 17:00,Group H,"Volgograd Arena,",Volgograd,Senegal,0,1,Colombia,,42189,,,SIKAZWE Janny (ZAM),DOS SANTOS Jerson (ANG),SIWELA Zakhele (RSA),,300000000,SEN,COL,0,1,,,,
-2018,28 Jun 2018 - 18:00,Group H,"Samara Arena,",Samara,Japan,0,1,Poland,,41970,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000000,JPN,POL,0,1,,,,
-2018,28 Jun 2018 - 21:00,Group G,"Mordovia Arena,",Saransk,England,0,1,Belgium,,37168,,,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),AL MARRI Taleb (QAT),,300000000,ENG,BEL,0,1,,,,
-2018,28 Jun 2018 - 20:00,Group G,"Kaliningrad Stadium,",Kaliningrad,Panama,1,2,Tunisia,,33973,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000000,PAN,TUN,0,1,,,,
-2018,30 Jun 2018 - 17:00,Last-16,"Kazan Arena,",Kazan,France,4,3,Argentina,,42873,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000000,FRA,ARG,1,0,,,,
-2018,30 Jun 2018 - 21:00,Last-16,"Fisht Stadium,",Sochi,Uruguay,2,1,Portugal,,44287,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000000,URU,POR,1,0,,,,
-2018,01 Jul 2018 - 17:00,Last-16,"Luzhniki Stadium,",Moscow,Spain,1,1,Russia,,78011,0,0,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000000,ESP,RUS,2,2,,,,
-2018,01 Jul 2018 - 21:00,Last-16,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Croatia,1,1,Denmark,,40851,0,0,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,CRO,DEN,2,2,,,,
-2018,02 Jul 2018 - 18:00,Last-16,"Samara Arena,",Samara,Brazil,2,0,Mexico,,41970,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000000,BRA,MEX,1,0,,,,
-2018,02 Jul 2018 - 21:00,Last-16,"Rostov Arena,",Rostov-On-Don,Belgium,3,2,Japan,,41466,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000000,BEL,JPN,1,0,,,,
-2018,03 Jul 2018 - 17:00,Last-16,"Saint Petersburg Stadium,",St. Petersburg,Sweden,1,0,Switzerland,,64042,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000000,SWE,SUI,1,0,,,,
-2018,03 Jul 2018 - 21:00,Last-16,"Spartak Stadium,",Moscow,Colombia,1,1,England,,44190,0,0,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000000,COL,ENG,2,2,,,,
-2018,06 Jul 2018 - 17:00,QFinals,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Uruguay,0,2,France,,43319,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,URU,FRA,0,1,,,,
-2018,06 Jul 2018 - 21:00,QFinals,"Kazan Arena,",Kazan,Brazil,1,2,Belgium,,42873,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000000,BRA,BEL,0,1,,,,
-2018,07 Jul 2018 - 18:00,QFinals,"Samara Arena,",Samara,Sweden,0,2,England,,39991,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000000,SWE,ENG,0,1,,,,
-2018,07 Jul 2018 - 21:00,QFinals,"Fisht Stadium,",Sochi,Russia,2,2,Croatia,,44287,1,1,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000000,RUS,CRO,2,2,,,,
-2018,10 Jul 2018 - 21:00,SFinals,"Saint Petersburg Stadium,",St. Petersburg,France,1,0,Belgium,,64286,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000000,FRA,BEL,1,0,,,,
-2018,11 Jul 2018 - 21:00,SFinals,"Luzhniki Stadium,",Moscow,Croatia,2,1,England,,78011,1,0,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000000,CRO,ENG,1,0,,,,
-2018,14 Jul 2018 - 17:00,Third-Place,"Saint Petersburg Stadium,",St. Petersburg,Belgium,2,0,England,,64406,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000000,BEL,ENG,1,0,,,,
-2018,15 Jul 2018 - 18:00,Final,"Luzhniki Stadium,",Moscow,France,4,2,Croatia,,78011,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,FRA,CRO,1,0,1,France,,
+2018,14 Jun 2018 - 18:00,Group A,"Luzhniki Stadium,",Moscow,Russia,5,0,Saudi Arabia,,78011,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000000,RUS,KSA,1,0,,,Europe,Asia
+2018,15 Jun 2018 - 17:00,Group A,"Ekaterinburg Arena,",Ekaterinburg,Egypt,0,1,Uruguay,,27015,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000001,EGY,URU,0,1,,,Africa,South America
+2018,15 Jun 2018 - 18:00,Group B,"Saint Petersburg Stadium,",St. Petersburg,Morocco,0,1,Iran,,62548,,,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000002,MAR,IRN,0,1,,,Africa,Asia
+2018,15 Jun 2018 - 21:00,Group B,"Fisht Stadium,",Sochi,Portugal,3,3,Spain,,43866,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000003,POR,ESP,2,2,,,Europe,Europe
+2018,16 Jun 2018 - 13:00,Group C,"Kazan Arena,",Kazan,France,2,1,Australia,,41279,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000004,FRA,AUS,1,0,,,Europe,Oceania
+2018,16 Jun 2018 - 16:00,Group D,"Spartak Stadium,",Moscow,Argentina,1,1,Iceland,,44190,,,MARCINIAK Szymon (POL),SOKOLNICKI Pawel (POL),LISTKIEWICZ Tomasz (POL),,300000005,ARG,ISL,2,2,,,South America,Europe
+2018,16 Jun 2018 - 19:00,Group C,"Mordovia Arena,",Saransk,Peru,0,1,Denmark,,40502,,,GASSAMA Bakary (GAM),BIRUMUSHAHU Jean Claude (BDI),ETCHIALI Abdelhak (ALG),,300000006,PER,DEN,0,1,,,South America,Europe
+2018,16 Jun 2018 - 21:00,Group D,"Kaliningrad Stadium,",Kaliningrad,Croatia,2,0,Nigeria,,31136,,,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000007,CRO,NGA,1,0,,,Europe,Africa
+2018,17 Jun 2018 - 16:00,Group E,"Samara Arena,",Samara,Costa Rica,0,1,Serbia,,41432,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000008,CRC,SRB,0,1,,,North America,Europe
+2018,17 Jun 2018 - 18:00,Group F,"Luzhniki Stadium,",Moscow,Germany,0,1,Mexico,,78011,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000009,GER,MEX,0,1,,,Europe,North America
+2018,17 Jun 2018 - 21:00,Group E,"Rostov Arena,",Rostov-On-Don,Brazil,1,1,Switzerland,,43109,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000010,BRA,SUI,2,2,,,South America,Europe
+2018,18 Jun 2018 - 15:00,Group F,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Sweden,1,0,Korea Republic,,42300,,,AGUILAR Joel (SLV),ZUMBA Juan (SLV),MORA Juan Carlos (CRC),,300000011,SWE,KOR,1,0,,,Europe,Asia
+2018,18 Jun 2018 - 18:00,Group G,"Fisht Stadium,",Sochi,Belgium,3,0,Panama,,43257,,,SIKAZWE Janny (ZAM),DOS SANTOS Jerson (ANG),SIWELA Zakhele (RSA),,300000012,BEL,PAN,1,0,,,Europe,North America
+2018,18 Jun 2018 - 21:00,Group G,"Volgograd Arena,",Volgograd,Tunisia,1,2,England,,41064,,,ROLDAN Wilmar (COL),GUZMAN Alexander (COL),DE LA CRUZ Cristian (COL),,300000013,TUN,ENG,0,1,,,Africa,Europe
+2018,19 Jun 2018 - 15:00,Group H,"Mordovia Arena,",Saransk,Colombia,1,2,Japan,,40842,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000014,COL,JPN,0,1,,,South America,Asia
+2018,19 Jun 2018 - 18:00,Group H,"Spartak Stadium,",Moscow,Poland,1,2,Senegal,,44190,,,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),AL MARRI Taleb (QAT),,300000015,POL,SEN,1,0,,,Europe,Africa
+2018,19 Jun 2018 - 21:00,Group A,"Saint Petersburg Stadium,",St. Petersburg,Russia,3,1,Egypt,,64468,,,CACERES Enrique (PAR),CARDOZO Eduardo (PAR),ZORRILLA Juan (PAR),,300000016,RUS,EGY,0,1,,,Europe,Africa
+2018,20 Jun 2018 - 15:00,Group B,"Luzhniki Stadium,",Moscow,Portugal,1,0,Morocco,,78011,,,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000017,POR,MAR,0,1,,,Europe,Africa
+2018,20 Jun 2018 - 18:00,Group A,"Rostov Arena,",Rostov-On-Don,Uruguay,1,0,Saudi Arabia,,42678,,,TURPIN Clement (FRA),DANOS Nicolas (FRA),GRINGORE Cyril (FRA),,300000018,URU,KSA,2,2,,,South America,Asia
+2018,20 Jun 2018 - 21:00,Group B,"Kazan Arena,",Kazan,Iran,0,1,Spain,,42718,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000019,IRN,ESP,1,0,,,Asia,Europe
+2018,21 Jun 2018 - 16:00,Group C,"Samara Arena,",Samara,Denmark,1,1,Australia,,40727,,,MATEU Antonio (ESP),CEBRIAN Pau (ESP),DIAZ Roberto (ESP),,300000020,DEN,AUS,2,2,,,Europe,Oceania
+2018,21 Jun 2018 - 20:00,Group C,"Ekaterinburg Arena,",Ekaterinburg,France,1,0,Peru,,32789,,,MOHAMMED Mohammed Abdulla (UAE),ALHAMMADI Mohamed (UAE),ALMAHRI Hasan (UAE),,300000021,FRA,PER,0,1,,,Europe,South America
+2018,21 Jun 2018 - 21:00,Group D,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Argentina,0,3,Croatia,,43319,,,IRMATOV Ravshan (UZB),RASULOV Abdukhamidullo (UZB),SAIDOV Jakhongir (UZB),,300000022,ARG,CRO,1,0,,,South America,Europe
+2018,22 Jun 2018 - 15:00,Group E,"Saint Petersburg Stadium,",St. Petersburg,Brazil,2,0,Costa Rica,,64468,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000023,BRA,CRC,0,1,,,South America,North America
+2018,22 Jun 2018 - 18:00,Group D,"Volgograd Arena,",Volgograd,Nigeria,2,0,Iceland,,40904,,,CONGER Matt (NZL),LOUNT Simon (NZL),MAKASINI Tevita (TGA),,300000024,NGA,ISL,0,1,,,Africa,Europe
+2018,22 Jun 2018 - 20:00,Group E,"Kaliningrad Stadium,",Kaliningrad,Serbia,1,2,Switzerland,,33167,,,BRYCH Felix (GER),BORSCH Mark (GER),LUPP Stefan (GER),,300000025,SRB,SUI,2,2,,,Europe,Europe
+2018,23 Jun 2018 - 15:00,Group G,"Spartak Stadium,",Moscow,Belgium,5,2,Tunisia,,44190,,,MARRUFO Jair (USA),ROCKWELL Corey (USA),ZUMBA Juan (SLV),,300000026,BEL,TUN,1,0,,,Europe,Africa
+2018,23 Jun 2018 - 18:00,Group F,"Rostov Arena,",Rostov-On-Don,Korea Republic,1,2,Mexico,,43472,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000027,KOR,MEX,1,0,,,Asia,North America
+2018,23 Jun 2018 - 21:00,Group F,"Fisht Stadium,",Sochi,Germany,2,1,Sweden,,44287,,,MARCINIAK Szymon (POL),SOKOLNICKI Pawel (POL),LISTKIEWICZ Tomasz (POL),,300000028,GER,SWE,0,1,,,Europe,Europe
+2018,24 Jun 2018 - 15:00,Group G,"Nizhny Novgorod Stadium,",Nizhny Novgorod,England,6,1,Panama,,43319,,,GRISHA Ghead (EGY),ACHIK Redouane (MAR),AHMED Waleed (SDN),,300000029,ENG,PAN,0,1,,,Europe,North America
+2018,24 Jun 2018 - 20:00,Group H,"Ekaterinburg Arena,",Ekaterinburg,Japan,2,2,Senegal,,32572,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000030,JPN,SEN,0,1,,,Asia,Africa
+2018,24 Jun 2018 - 21:00,Group H,"Kazan Arena,",Kazan,Poland,0,3,Colombia,,42873,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000031,POL,COL,1,0,,,Europe,South America
+2018,25 Jun 2018 - 18:00,Group A,"Samara Arena,",Samara,Saudi Arabia,2,1,Egypt,,41970,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000032,KSA,EGY,1,0,,,Asia,Africa
+2018,25 Jun 2018 - 17:00,Group A,"Volgograd Arena,",Volgograd,Uruguay,3,0,Russia,,36823,,,ROLDAN Wilmar (COL),GUZMAN Alexander (COL),DE LA CRUZ Cristian (COL),,300000033,URU,RUS,1,0,,,South America,Europe
+2018,25 Jun 2018 - 20:00,Group B,"Kaliningrad Stadium,",Kaliningrad,Iran,1,1,Portugal,,33973,,,IRMATOV Ravshan (UZB),RASULOV Abdukhamidullo (UZB),SAIDOV Jakhongir (UZB),,300000034,IRN,POR,0,1,,,Asia,Europe
+2018,25 Jun 2018 - 21:00,Group B,"Mordovia Arena,",Saransk,Spain,2,2,Morocco,,41685,,,CACERES Enrique (PAR),CARDOZO Eduardo (PAR),ZORRILLA Juan (PAR),,300000035,ESP,MAR,2,2,,,Europe,Africa
+2018,26 Jun 2018 - 17:00,Group C,"Fisht Stadium,",Sochi,Australia,0,2,Peru,,44073,,,KARASEV Sergei (RUS),AVERIANOV Anton (RUS),KALUGIN Tikhon (RUS),,300000036,AUS,PER,1,0,,,Oceania,South America
+2018,26 Jun 2018 - 17:00,Group C,"Luzhniki Stadium,",Moscow,Denmark,0,0,France,,78011,,,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000037,DEN,FRA,0,1,,,Europe,Europe
+2018,26 Jun 2018 - 21:00,Group D,"Saint Petersburg Stadium,",St. Petersburg,Nigeria,1,2,Argentina,,64468,,,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000038,NGA,ARG,1,0,,,Africa,South America
+2018,26 Jun 2018 - 21:00,Group D,"Rostov Arena,",Rostov-On-Don,Iceland,1,2,Croatia,,43472,,,MATEU Antonio (ESP),CEBRIAN Pau (ESP),DIAZ Roberto (ESP),,300000039,ISL,CRO,1,0,,,Europe,Europe
+2018,27 Jun 2018 - 17:00,Group F,"Kazan Arena,",Kazan,Mexico,0,3,Sweden,,41835,,,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000040,MEX,SWE,0,1,,,North America,Europe
+2018,27 Jun 2018 - 19:00,Group F,"Ekaterinburg Arena,",Ekaterinburg,Korea Republic,2,0,Germany,,33061,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000041,KOR,GER,1,0,,,Asia,Europe
+2018,27 Jun 2018 - 21:00,Group E,"Spartak Stadium,",Moscow,Switzerland,2,2,Costa Rica,,44190,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000042,SUI,CRC,0,1,,,Europe,North America
+2018,27 Jun 2018 - 21:00,Group E,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Serbia,0,2,Brazil,,43319,,,TURPIN Clement (FRA),DANOS Nicolas (FRA),GRINGORE Cyril (FRA),,300000043,SRB,BRA,1,0,,,Europe,South America
+2018,28 Jun 2018 - 17:00,Group H,"Volgograd Arena,",Volgograd,Senegal,0,1,Colombia,,42189,,,SIKAZWE Janny (ZAM),DOS SANTOS Jerson (ANG),SIWELA Zakhele (RSA),,300000044,SEN,COL,1,0,,,Africa,South America
+2018,28 Jun 2018 - 18:00,Group H,"Samara Arena,",Samara,Japan,0,1,Poland,,41970,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000045,JPN,POL,2,2,,,Asia,Europe
+2018,28 Jun 2018 - 21:00,Group G,"Mordovia Arena,",Saransk,England,0,1,Belgium,,37168,,,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),AL MARRI Taleb (QAT),,300000046,ENG,BEL,0,1,,,Europe,Europe
+2018,28 Jun 2018 - 20:00,Group G,"Kaliningrad Stadium,",Kaliningrad,Panama,1,2,Tunisia,,33973,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000047,PAN,TUN,1,0,,,North America,Africa
+2018,30 Jun 2018 - 17:00,Last-16,"Kazan Arena,",Kazan,France,4,3,Argentina,,42873,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000048,FRA,ARG,1,0,,,Europe,South America
+2018,30 Jun 2018 - 21:00,Last-16,"Fisht Stadium,",Sochi,Uruguay,2,1,Portugal,,44287,,,RAMOS Cesar (MEX),TORRENTERA Marvin (MEX),HERNANDEZ Miguel (MEX),,300000049,URU,POR,2,2,,,South America,Europe
+2018,01 Jul 2018 - 17:00,Last-16,"Luzhniki Stadium,",Moscow,Spain,1,1,Russia,,78011,0,0,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000050,ESP,RUS,2,2,,,Europe,Europe
+2018,01 Jul 2018 - 21:00,Last-16,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Croatia,1,1,Denmark,,40851,0,0,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000051,CRO,DEN,0,1,,,Europe,Europe
+2018,02 Jul 2018 - 18:00,Last-16,"Samara Arena,",Samara,Brazil,2,0,Mexico,,41970,,,ROCCHI Gianluca (ITA),DI LIBERATORE Elenito (ITA),TONOLINI Mauro (ITA),,300000052,BRA,MEX,2,2,,,South America,North America
+2018,02 Jul 2018 - 21:00,Last-16,"Rostov Arena,",Rostov-On-Don,Belgium,3,2,Japan,,41466,,,DIEDHIOU Malang (SEN),CAMARA Djibril (SEN),SAMBA El Hadji (SEN),,300000053,BEL,JPN,0,1,,,Europe,Asia
+2018,03 Jul 2018 - 17:00,Last-16,"Saint Petersburg Stadium,",St. Petersburg,Sweden,1,0,Switzerland,,64042,,,SKOMINA Damir (SVN),PRAPROTNIK Jure (SVN),VUKAN Robert (SVN),,300000054,SWE,SUI,0,1,,,Europe,Europe
+2018,03 Jul 2018 - 21:00,Last-16,"Spartak Stadium,",Moscow,Colombia,1,1,England,,44190,0,0,GEIGER Mark (USA),FLETCHER Joe (CAN),ANDERSON Frank (USA),,300000055,COL,ENG,0,1,,,South America,Europe
+2018,06 Jul 2018 - 17:00,QFinals,"Nizhny Novgorod Stadium,",Nizhny Novgorod,Uruguay,0,2,France,,43319,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000056,URU,FRA,1,0,,,South America,Europe
+2018,06 Jul 2018 - 21:00,QFinals,"Kazan Arena,",Kazan,Brazil,1,2,Belgium,,42873,,,MAZIC Milorad (SRB),RISTIC Milovan (SRB),DJURDJEVIC Dalibor (SRB),,300000057,BRA,BEL,2,2,,,South America,Europe
+2018,07 Jul 2018 - 18:00,QFinals,"Samara Arena,",Samara,Sweden,0,2,England,,39991,,,KUIPERS Bjorn (NED),VAN ROEKEL Sander (NED),ZEINSTRA Erwin (NED),,300000058,SWE,ENG,0,1,,,Europe,Europe
+2018,07 Jul 2018 - 21:00,QFinals,"Fisht Stadium,",Sochi,Russia,2,2,Croatia,,44287,1,1,RICCI Sandro (BRA),DE CARVALHO Emerson (BRA),VAN GASSE Marcelo (BRA),,300000059,RUS,CRO,0,1,,,Europe,Europe
+2018,10 Jul 2018 - 21:00,SFinals,"Saint Petersburg Stadium,",St. Petersburg,France,1,0,Belgium,,64286,,,CUNHA Andres (URU),TARAN Nicolas (URU),ESPINOSA Mauricio (URU),,300000060,FRA,BEL,0,1,,,Europe,Europe
+2018,11 Jul 2018 - 21:00,SFinals,"Luzhniki Stadium,",Moscow,Croatia,2,1,England,,78011,1,0,CAKIR Cuneyt (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),,300000061,CRO,ENG,0,1,,,Europe,Europe
+2018,14 Jul 2018 - 17:00,Third-Place,"Saint Petersburg Stadium,",St. Petersburg,Belgium,2,0,England,,64406,,,FAGHANI Alireza (IRN),SOKHANDAN Reza (IRN),MANSOURI Mohammadreza (IRN),,300000062,BEL,ENG,0,1,,,Europe,Europe
+2018,15 Jul 2018 - 18:00,Final,"Luzhniki Stadium,",Moscow,France,4,2,Croatia,,78011,,,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),,300000063,FRA,CRO,1,0,1,France,Europe,Europe
