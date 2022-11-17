@@ -1,23 +1,23 @@
-Rank,Player,Country,Number of goals
-1,Miroslav Klose,Germany,16
-2,Ronaldo,Brazil,15
-3,Gerd Müller,West Germany,14
-4,Just Fontaine,France,13
-5,Pelé,Brazil,12
-6,Sándor Kocsis,Hungary,11
-,Jürgen Klinsmann,Germany,11
-7,Helmut Rahn,West Germany,10
-7,Gary Lineker,England,10
-7,Gabriel Batistuta,Argentina,10
-7,Teófilo Cubillas,Peru,10
-7,Thomas Müller,Germany,10
-7,Grzegorz Lato,Poland,10
-8,Eusébio,Portugal,9
-8,Christian Vieri,Italy,9
-8,Vava,Brazil,9
-8,David Villa,Spain,9
-8,Paolo Rossi,Italy,9
-8,Jairzinho,Brazil,9
-8,Roberto Baggio,Italy,9
-8,Karl-Heinz Rummenigge,West Germany,9
-8,Uwe Seeler,West Germany,9
+Rank,Player,Country,Number of goals,URL
+1,Miroslav Klose,Germany,16,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2016209185719_2016-07-27_Champions_for_Charity_-_Sven_-_1D_X_-_0149_-_DV3P4742_mod.jpg/220px-2016209185719_2016-07-27_Champions_for_Charity_-_Sven_-_1D_X_-_0149_-_DV3P4742_mod.jpg
+2,Ronaldo,Brazil,15,https://upload.wikimedia.org/wikipedia/commons/d/d1/Ronaldo_Cannes_%28cropped%29.jpg
+3,Gerd Müller,Germany,14,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gerd_M%C3%BCller_c1973.jpg/600px-Gerd_M%C3%BCller_c1973.jpg
+4,Just Fontaine,France,13,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/7.7.71._Foot._Just_Fontaine_et_Mme_%281971%29_-_53Fi6518.jpg/800px-7.7.71._Foot._Just_Fontaine_et_Mme_%281971%29_-_53Fi6518.jpg
+5,Pelé,Brazil,12,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PEL%C3%89_-_1963_%28cropped%29.jpg/600px-PEL%C3%89_-_1963_%28cropped%29.jpg
+6,Sándor Kocsis,Hungary,11,
+,Jürgen Klinsmann,Germany,11,
+7,Helmut Rahn,Germany,10,
+7,Gary Lineker,England,10,
+7,Gabriel Batistuta,Argentina,10,
+7,Teófilo Cubillas,Peru,10,
+7,Thomas Müller,Germany,10,
+7,Grzegorz Lato,Poland,10,
+8,Eusébio,Portugal,9,
+8,Christian Vieri,Italy,9,
+8,Vava,Brazil,9,
+8,David Villa,Spain,9,
+8,Paolo Rossi,Italy,9,
+8,Jairzinho,Brazil,9,
+8,Roberto Baggio,Italy,9,
+8,Karl-Heinz Rummenigge,Germany,9,
+8,Uwe Seeler,Germany,9,
