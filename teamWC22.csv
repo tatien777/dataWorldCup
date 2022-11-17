@@ -1,33 +1,161 @@
-nationID,nationName,Group,url,flag,emojiString,fifaRank,market Value,bestPlayerURL,Confederation
-QAT,Qatar,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1024px-Flag_of_Qatar.svg.png,flag-qa,QA,50,€18.60m,-,AFC
-SEN,Senegal,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/900px-Flag_of_Senegal.svg.png,flag-sn,SN,18,€286.50m,Ismaïla Sarr,CAF
-NED,Netherlands,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png,flag-nl,NL,8,€472.75m,Daley Blind,UEFA
-ECU,Ecuador,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1024px-Flag_of_Ecuador.svg.png,flag-ec,EC,44,€125.80m,Alexander Domínguez,CONMEBOL
-ENG,England,Group B,https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png,flag-england,england,5,€1.36bn,Raheem Sterling,UEFA
-USA,USA,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_%28fixed%29.svg/1024px-Flag_of_the_United_States_%28fixed%29.svg.png,flag-us,US,16,€204.40m,DeAndre Yedlin,CONCACAF
-WAL,Wales,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/700px-Flag_of_Wales.svg.png,falg-wl,wl,19,€130.85m,-,UEFA
-IRN,Iran,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png,flag-ir,IR,20,€68.58m,Ehsan Hajsafi,AFC
-ARG,Argentina,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png,flag-ar,AR,3,€608.00m,Lionel Messi,CONMEBOL
-MEX,Mexico,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png,flag-mx,MX,13,€219.30m,Andrés Guardado,CONCACAF
-POL,Poland,Group C,https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png,flag-pl,PL,26,€330.40m,Kamil Grosicki,UEFA
-KSA,Saudi Arabia,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png,flag-sa,SA,51,€23.18m,Salman Al-Faraj,AFC
-DEN,Denmark,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png,flag-dk,DK,10,€339.30m,Simon Kjaer,UEFA
-FRA,France,Group D,https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png,flag-fr,FR,4,€886.00m,Olivier Giroud,UEFA
-TUN,Tunisia,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png,flag-tn,TN,30,€65.85m,Ellyes Skhiri,CAF
-AUS,Australia,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png,flag-au,AU,38,€40.33m,Mathew Leckie,AFC
-GER,Germany,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png,flag-de,DE,11,€746.50m,Thomas Müller,UEFA
-ESP,Spain,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png,flag-es,ES,7,€805.00m,Sergio Busquets,UEFA
-JPN,Japan,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png,flag-jp,JP,24,€131.70m,Eiji Kawashima,AFC
-CRC,Costa Rica,Group E,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png,flag-cr,CR,31,€7.08m,Joel Campbell,CONCACAF
-MAR,Morocco,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png,flag-ma,MA,22,€232.30m,Munir,CAF
-BEL,Belgium,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/750px-Flag_of_Belgium.png,flag-be,BE,2,€554.00m,Thibaut Courtois,UEFA
-CRO,Croatia,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png,flag-hr,HR,12,€369.40m,Luka Modric,UEFA
-CAN,Canada,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/900px-Flag_of_Canada_%28Pantone%29.svg.png,flag-ca,CA,41,€172.13m,-,CONCACAF
-SUI,Switzerland,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/600px-Flag_of_Switzerland_%28Pantone%29.png,flag-ch,CH,15,€192.20m,Xherdan Shaqiri,UEFA
-BRA,Brazil,Group G,https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png,flag-br,BR,1,€1.09bn,Thiago Silva,CONMEBOL
-CMR,Cameroon,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/800px-Flag_of_Cameroon.svg.png,flag-cm,CM,43,€114.75m,Nicolas N'Koulou,CAF
-SRB,Serbia,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png,flag-rs,RS,21,€328.00m,Dusan Tadić,UEFA
-URU,Uruguay,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png,flag-uy,UY,14,€395.40m,Fernando Muslera,CONMEBOL
-POR,Portugal,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png,flag-pt,PT,9,€882.00m,Cristiano Ronaldo,UEFA
-KOR,Korea Republic,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png,flag-kr,KR,28,€159.55m,Heung-min Son,AFC
-GHA,Ghana,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1024px-Flag_of_Ghana.svg.png,flag-gh,GH,61,€206.40m,André Ayew,CAF
+nationID,nationName,Group,url,flag,emojiString,fifaRank,market Value,bestPlayerURL,Confederation,averageAge,WCParticipants,Last 5,5th last,4th last,3rd last,2nd lst,1st last
+QAT,Qatar,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1024px-Flag_of_Qatar.svg.png,flag-qa,QA,50,€18.60m,-,AFC,26,1,"D
+D
+W
+D
+L",D,D,W,D,L
+SEN,Senegal,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/900px-Flag_of_Senegal.svg.png,flag-sn,SN,18,€286.50m,Ismaïla Sarr,CAF,26,3,"W
+D
+L
+D
+W",W,D,L,D,W
+NED,Netherlands,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png,flag-nl,NL,8,€472.75m,Daley Blind,UEFA,23,11,"W
+W
+D
+W
+W",W,W,D,W,W
+ECU,Ecuador,Group A,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1024px-Flag_of_Ecuador.svg.png,flag-ec,EC,44,€125.80m,Alexander Domínguez,CONMEBOL,28,4,"D
+W
+D
+W
+D",D,W,D,W,D
+ENG,England,Group B,https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png,flag-england,england,5,€1.36bn,Raheem Sterling,UEFA,29,16,"L
+L
+D
+D
+L",L,L,D,D,L
+USA,USA,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_%28fixed%29.svg/1024px-Flag_of_the_United_States_%28fixed%29.svg.png,flag-us,US,16,€204.40m,DeAndre Yedlin,CONCACAF,25,11,"D
+W
+D
+W
+L",D,W,D,W,L
+WAL,Wales,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/700px-Flag_of_Wales.svg.png,falg-wl,wl,19,€130.85m,-,UEFA,27,2,"L
+L
+D
+L
+W",L,L,D,L,W
+IRN,Iran,Group B,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png,flag-ir,IR,20,€68.58m,Ehsan Hajsafi,AFC,27,6,"W
+L
+W
+L
+W",W,L,W,L,W
+ARG,Argentina,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png,flag-ar,AR,3,€608.00m,Lionel Messi,CONMEBOL,26,18,"W
+W
+W
+D
+W",W,W,W,D,W
+MEX,Mexico,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png,flag-mx,MX,13,€219.30m,Andrés Guardado,CONCACAF,32,17,"D
+W
+D
+L
+W",D,W,D,L,W
+POL,Poland,Group C,https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png,flag-pl,PL,26,€330.40m,Kamil Grosicki,UEFA,47,9,"L
+L
+D
+L
+W",L,L,D,L,W
+KSA,Saudi Arabia,Group C,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png,flag-sa,SA,51,€23.18m,Salman Al-Faraj,AFC,25,6,"D
+L
+L
+W
+D",D,L,L,W,D
+DEN,Denmark,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png,flag-dk,DK,10,€339.30m,Simon Kjaer,UEFA,26,6,"L
+W
+L
+W
+W",L,W,L,W,W
+FRA,France,Group D,https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png,flag-fr,FR,4,€886.00m,Olivier Giroud,UEFA,23,16,"W
+L
+D
+D
+L",W,L,D,D,L
+TUN,Tunisia,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png,flag-tn,TN,30,€65.85m,Ellyes Skhiri,CAF,30,6,"W
+D
+W
+D
+W",W,D,W,D,W
+AUS,Australia,Group D,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png,flag-au,AU,38,€40.33m,Mathew Leckie,AFC,31,6,"W
+D
+W
+W
+L",W,D,W,W,L
+GER,Germany,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png,flag-de,DE,11,€746.50m,Thomas Müller,UEFA,23,20,"L
+W
+D
+D
+D",L,W,D,D,D
+ESP,Spain,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png,flag-es,ES,7,€805.00m,Sergio Busquets,UEFA,25,16,"L
+W
+W
+D
+D",L,W,W,D,D
+JPN,Japan,Group E,https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png,flag-jp,JP,24,€131.70m,Eiji Kawashima,AFC,30,7,"W
+L
+W
+D
+W",W,L,W,D,W
+CRC,Costa Rica,Group E,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png,flag-cr,CR,31,€7.08m,Joel Campbell,CONCACAF,25,6,"D
+W
+W
+L
+W",D,W,W,L,W
+MAR,Morocco,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png,flag-ma,MA,22,€232.30m,Munir,CAF,27,6,"W
+L
+W
+D
+L",W,L,W,D,L
+BEL,Belgium,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/750px-Flag_of_Belgium.png,flag-be,BE,2,€554.00m,Thibaut Courtois,UEFA,29,14,"W
+W
+D
+W
+L",W,W,D,W,L
+CRO,Croatia,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png,flag-hr,HR,12,€369.40m,Luka Modric,UEFA,25,6,"W
+W
+W
+D
+L",W,W,W,D,L
+CAN,Canada,Group F,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/900px-Flag_of_Canada_%28Pantone%29.svg.png,flag-ca,CA,41,€172.13m,-,CONCACAF,25,2,"W
+L
+W
+L
+W",W,L,W,L,W
+SUI,Switzerland,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/600px-Flag_of_Switzerland_%28Pantone%29.png,flag-ch,CH,15,€192.20m,Xherdan Shaqiri,UEFA,23,12,"W
+W
+L
+L
+L",W,W,L,L,L
+BRA,Brazil,Group G,https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png,flag-br,BR,1,€1.09bn,Thiago Silva,CONMEBOL,26,22,"W
+W
+W
+W
+W",W,W,W,W,W
+CMR,Cameroon,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/800px-Flag_of_Cameroon.svg.png,flag-cm,CM,43,€114.75m,Nicolas N'Koulou,CAF,26,8,"L
+W
+W
+L
+D",L,W,W,L,D
+SRB,Serbia,Group G,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png,flag-rs,RS,21,€328.00m,Dusan Tadić,UEFA,27,3,"W
+D
+W
+W
+L",W,D,W,W,L
+URU,Uruguay,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png,flag-uy,UY,14,€395.40m,Fernando Muslera,CONMEBOL,26,14,"W
+D
+W
+W
+W",W,D,W,W,W
+POR,Portugal,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png,flag-pt,PT,9,€882.00m,Cristiano Ronaldo,UEFA,23,8,"W
+L
+W
+W
+D",W,L,W,W,D
+KOR,Korea Republic,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png,flag-kr,KR,28,€159.55m,Heung-min Son,AFC,26,11,"W
+D
+W
+L
+L",W,D,W,L,L
+GHA,Ghana,Group H,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1024px-Flag_of_Ghana.svg.png,flag-gh,GH,61,€206.40m,André Ayew,CAF,29,4,"L
+D
+W
+D
+D",L,D,W,D,D
