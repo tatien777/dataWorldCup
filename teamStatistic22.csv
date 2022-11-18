@@ -1,33 +1,33 @@
-nationID,point,win,draw,lose,goals,against
-QAT,0,0,0,0,0,0
-SEN,0,0,0,0,0,0
-NED,0,0,0,0,0,0
-ECU,0,0,0,0,0,0
-ENG,0,0,0,0,0,0
-USA,0,0,0,0,0,0
-WAL,0,0,0,0,0,0
-IRN,0,0,0,0,0,0
-ARG,0,0,0,0,0,0
-MEX,0,0,0,0,0,0
-POL,0,0,0,0,0,0
-KSA,0,0,0,0,0,0
-DEN,0,0,0,0,0,0
-FRA,0,0,0,0,0,0
-TUN,0,0,0,0,0,0
-AUS,0,0,0,0,0,0
-GER,0,0,0,0,0,0
-ESP,0,0,0,0,0,0
-JPN,0,0,0,0,0,0
-CRC,0,0,0,0,0,0
-MAR,0,0,0,0,0,0
-BEL,0,0,0,0,0,0
-CRO,0,0,0,0,0,0
-CAN,0,0,0,0,0,0
-SUI,0,0,0,0,0,0
-BRA,0,0,0,0,0,0
-CMR,0,0,0,0,0,0
-SRB,0,0,0,0,0,0
-URU,0,0,0,0,0,0
-POR,0,0,0,0,0,0
-KOR,0,0,0,0,0,0
-GHA,0,0,0,0,0,0
+nationID,nation url,group,point,win,draw,lose,goals,against,yellow cards,red cards
+QAT,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1024px-Flag_of_Qatar.svg.png,Group A,0,0,0,0,0,0,0,0
+SEN,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/900px-Flag_of_Senegal.svg.png,Group A,0,0,0,0,0,0,0,0
+NED,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png,Group A,0,0,0,0,0,0,0,0
+ECU,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1024px-Flag_of_Ecuador.svg.png,Group A,0,0,0,0,0,0,0,0
+ENG,https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/800px-Flag_of_England.png,Group B,0,0,0,0,0,0,0,0
+USA,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_%28fixed%29.svg/1024px-Flag_of_the_United_States_%28fixed%29.svg.png,Group B,0,0,0,0,0,0,0,0
+WAL,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/700px-Flag_of_Wales.svg.png,Group B,0,0,0,0,0,0,0,0
+IRN,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/630px-Flag_of_Iran.png,Group B,0,0,0,0,0,0,0,0
+ARG,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.png,Group C,0,0,0,0,0,0,0,0
+MEX,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.png,Group C,0,0,0,0,0,0,0,0
+POL,https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.png,Group C,0,0,0,0,0,0,0,0
+KSA,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/750px-Flag_of_Saudi_Arabia.png,Group C,0,0,0,0,0,0,0,0
+DEN,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/740px-Flag_of_Denmark.png,Group D,0,0,0,0,0,0,0,0
+FRA,https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/900px-Flag_of_France.png,Group D,0,0,0,0,0,0,0,0
+TUN,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.png,Group D,0,0,0,0,0,0,0,0
+AUS,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.png,Group D,0,0,0,0,0,0,0,0
+GER,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.png,Group E,0,0,0,0,0,0,0,0
+ESP,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.png,Group E,0,0,0,0,0,0,0,0
+JPN,https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/900px-Flag_of_Japan.png,Group E,0,0,0,0,0,0,0,0
+CRC,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/833px-Flag_of_Costa_Rica_%28state%29.png,Group E,0,0,0,0,0,0,0,0
+MAR,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.png,Group F,0,0,0,0,0,0,0,0
+BEL,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/750px-Flag_of_Belgium.png,Group F,0,0,0,0,0,0,0,0
+CRO,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.png,Group F,0,0,0,0,0,0,0,0
+CAN,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/900px-Flag_of_Canada_%28Pantone%29.svg.png,Group F,0,0,0,0,0,0,0,0
+SUI,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/600px-Flag_of_Switzerland_%28Pantone%29.png,Group G,0,0,0,0,0,0,0,0
+BRA,https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.png,Group G,0,0,0,0,0,0,0,0
+CMR,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/800px-Flag_of_Cameroon.svg.png,Group G,0,0,0,0,0,0,0,0
+SRB,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1350px-Flag_of_Serbia.png,Group G,0,0,0,0,0,0,0,0
+URU,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/900px-Flag_of_Uruguay.png,Group H,0,0,0,0,0,0,0,0
+POR,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.png,Group H,0,0,0,0,0,0,0,0
+KOR,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/900px-Flag_of_South_Korea.png,Group H,0,0,0,0,0,0,0,0
+GHA,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1024px-Flag_of_Ghana.svg.png,Group H,0,0,0,0,0,0,0,0
